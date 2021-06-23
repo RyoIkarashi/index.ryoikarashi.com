@@ -64,7 +64,7 @@
         "@typescript-eslint/parser": "^4.6.0",
         "autoprefixer": "^10.0.1",
         "axios": "^0.21.0",
-        "browserslist": "^4.14.5",
+        "browserslist": "^4.16.5",
         "copy-webpack-plugin": "^6.2.1",
         "css-loader": "^5.0.0",
         "css-mqpacker": "^7.0.0",
