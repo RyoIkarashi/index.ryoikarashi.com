@@ -88,7 +88,7 @@
         "mini-css-extract-plugin": "^1.2.0",
         "netlify-lambda": "^2.0.1",
         "path": "^0.12.7",
-        "postcss": "^8.1.4",
+        "postcss": "^8.2.10",
         "postcss-custom-properties": "^10.0.0",
         "postcss-import": "^13.0.0",
         "postcss-loader": "^4.0.3",
